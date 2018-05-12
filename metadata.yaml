@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6531'
     url: http://www.gutenberg.org/2009/agents/6531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16195#A-Sketch-of-the-History-of-Oneonta
 gutenberg_issued: '2005-07-03'
 gutenberg_type: Text
 identifiers:
